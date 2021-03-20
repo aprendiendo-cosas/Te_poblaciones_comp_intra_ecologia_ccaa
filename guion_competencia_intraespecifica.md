@@ -34,9 +34,9 @@ En esta sesión se suministra el siguiente material a los estudiantes:
 
 
 
-+ Además, abajo se puede ver el vídeo con la grabación de la sesión:
++ Además, abajo se puede ver el vídeo con la grabación de la sesión (falta la última parte en la que hablamos del efecto de la competencia en la especiación):
 
-[DISPONIBLE EN BREVE]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/caqXh9MOuuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
