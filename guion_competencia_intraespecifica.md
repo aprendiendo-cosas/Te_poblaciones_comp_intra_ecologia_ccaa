@@ -58,12 +58,14 @@ De manera más específica, en esta actividad tenemos los siguientes objetivos:
 
 Para satisfacer los objetivos anteriores, seguiremos la siguiente metodología:
 
-1. Lectura de artículos suministrados por el profesor u otros que consideres. Os propongo el siguiente material:
+1. Lectura y visionado del siguiente material. Puedes elegir libremente si aportar otros al debate.
    1. Artículo divulgativo: "[Narrar historias promueve la cooperación](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/biblio_cooperacion/contadores_historias.pdf)"
    2. Artículo científico: "[Evolutionary explanations for cooperation](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/biblio_cooperacion/evolutionary_explanations_cooperation.pdf)"
    3. Artículo científico: "[Is good to cooperate?](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/biblio_cooperacion/is_good_cooperate.pdf)"
    4. Artículo divulgativo: "[La aritmética de la ayuda mutua](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/biblio_cooperacion/la_aritmetica_ayuda_mutua.pdf)"
    5. Artículo científico: "[The origin of cooperation](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/biblio_cooperacion/origin_cooperation.pdf)"
+   6. Vídeo divulgativo: "[Juntos perduramos](https://youtu.be/ZRimz-60xGY)"
 2. En el proceso de lectura sería recomendable que tomárais notas sobre aspectos que os resulten de interés y relacionados con los artículos propuestos. También podéis proponer otros artículos y leerlos también. Las notas se pueden escribir en un archivo de texto o construir un mapa mental.
 3. Debate sobre las preguntas anteriores durante una sesión presencial. Haremos esto el próximo día **25 de marzo de 18:00 a 19:00**. 
-4. Generación de conclusiones. Durante el debate yo iré tomando notas de vuestras aportaciones y construiremos un mapa mental consensuado. 
+4. Generación de conclusiones. Durante el debate yo iré tomando notas de vuestras aportaciones y construiremos un mapa mental consensuado. Dichas conclusiones se mostrarán en este guión cuando realicemos el debate.
+
