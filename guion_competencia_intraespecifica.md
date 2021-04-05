@@ -66,6 +66,5 @@ Para satisfacer los objetivos anteriores, seguiremos la siguiente metodología:
    5. Artículo científico: "[The origin of cooperation](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/biblio_cooperacion/origin_cooperation.pdf)"
    6. Vídeo divulgativo: "[Juntos perduramos](https://youtu.be/ZRimz-60xGY)"
 2. En el proceso de lectura sería recomendable que tomárais notas sobre aspectos que os resulten de interés y relacionados con los artículos propuestos. También podéis proponer otros artículos y leerlos también. Las notas se pueden escribir en un archivo de texto o construir un mapa mental.
-3. Debate sobre las preguntas anteriores durante una sesión presencial. Haremos esto el próximo día **25 de marzo de 18:00 a 19:00**. 
-4. Generación de conclusiones. Durante el debate yo iré tomando notas de vuestras aportaciones y construiremos un mapa mental consensuado. Dichas conclusiones se mostrarán en este guión cuando realicemos el debate.
+3. Debate sobre las preguntas anteriores durante una sesión presencial. El debate se realizó el día 25 de marzo. En él comentamos varios asuntos. El resumen se puede ver y editar en este mapa mental. La misma información está también disponible en esta web. 
 
