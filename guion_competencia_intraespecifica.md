@@ -26,7 +26,7 @@ Este acto docente consta de dos sesiones diferentes que se describen a continuac
 En esta sesión se suministra el siguiente material a los estudiantes:
 + Presentación de Prezi que se usa como guía en la explicación sobre la competencia intraespecífica. Esta presentación sigue la misma estructura y diseño visual que la utilizada en la sesión sobre poblaciones. Disponible en varios formatos:
   + [Visualización en línea](https://prezi.com/view/uMq5KSdDiRNnSvBLlCpe).
-  + Descarga de ejecutable para verla offline. Disponible para  [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/presentacion/competencia_intraespecifica.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/presentacion/competencia_intraespecifica.exe).
+  + Descarga de ejecutable para verla offline. Disponible para  [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/presentacion/competencia_intraespecifica.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/presentacion/competencia_intraespecifica.exe.zip).
   + [Descarga en formato pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/presentacion/competencia_intraespecifica.pdf).
   + También se puede ver incrustada a continuación:
 
