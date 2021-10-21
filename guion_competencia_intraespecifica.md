@@ -26,8 +26,8 @@ Este acto docente consta de dos sesiones diferentes que se describen a continuac
 En esta sesión se suministra el siguiente material a los estudiantes:
 + Presentación de Prezi que se usa como guía en la explicación sobre la competencia intraespecífica. Esta presentación sigue la misma estructura y diseño visual que la utilizada en la sesión sobre poblaciones. Disponible en varios formatos:
   + [Visualización en línea](https://prezi.com/view/uMq5KSdDiRNnSvBLlCpe).
-  + Descarga de ejecutable para verla offline. Disponible para  [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/presentacion/competencia_intraespecifica.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/presentacion/competencia_intraespecifica.exe.zip).
-  + [Descarga en formato pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/presentacion/competencia_intraespecifica.pdf).
+  + Descarga de ejecutable para verla offline. Disponible para  [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2020-2021/presentacion/competencia_intraespecifica.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2020-2021/presentacion/competencia_intraespecifica.exe.zip).
+  + [Descarga en formato pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2020-2021/presentacion/competencia_intraespecifica.pdf).
   + También se puede ver incrustada a continuación:
 
 <p><iframe src="https://prezi.com/view/uMq5KSdDiRNnSvBLlCpe/embed" width="1200" height="900"> </iframe></p>
@@ -59,12 +59,12 @@ De manera más específica, en esta actividad tenemos los siguientes objetivos:
 Para satisfacer los objetivos anteriores, seguiremos la siguiente metodología:
 
 1. Lectura y visionado del siguiente material. Puedes elegir libremente si aportar otros al debate.
-   1. Artículo divulgativo: "[Narrar historias promueve la cooperación](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/biblio_cooperacion/contadores_historias.pdf)"
-   2. Artículo científico: "[Evolutionary explanations for cooperation](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/biblio_cooperacion/evolutionary_explanations_cooperation.pdf)"
-   3. Artículo científico: "[Is good to cooperate?](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/biblio_cooperacion/is_good_cooperate.pdf)"
-   4. Artículo divulgativo: "[La aritmética de la ayuda mutua](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/biblio_cooperacion/la_aritmetica_ayuda_mutua.pdf)"
-   5. Artículo científico: "[The origin of cooperation](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/biblio_cooperacion/origin_cooperation.pdf)"
+   1. Artículo divulgativo: "[Narrar historias promueve la cooperación](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2020-2021/biblio_cooperacion/contadores_historias.pdf)"
+   2. Artículo científico: "[Evolutionary explanations for cooperation](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2020-2021/biblio_cooperacion/evolutionary_explanations_cooperation.pdf)"
+   3. Artículo científico: "[Is good to cooperate?](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2020-2021/biblio_cooperacion/is_good_cooperate.pdf)"
+   4. Artículo divulgativo: "[La aritmética de la ayuda mutua](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2020-2021/biblio_cooperacion/la_aritmetica_ayuda_mutua.pdf)"
+   5. Artículo científico: "[The origin of cooperation](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2020-2021/biblio_cooperacion/origin_cooperation.pdf)"
    6. Vídeo divulgativo: "[Juntos perduramos](https://youtu.be/ZRimz-60xGY)"
 2. En el proceso de lectura sería recomendable que tomárais notas sobre aspectos que os resulten de interés y relacionados con los artículos propuestos. También podéis proponer otros artículos y leerlos también. Las notas se pueden escribir en un archivo de texto o construir un mapa mental.
-3. Debate sobre las preguntas anteriores durante una sesión presencial. El debate se realizó el día 25 de marzo. En él comentamos varios asuntos. El resumen se puede ver y editar en [este](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/presentacion/debate_cooperacion.xmind) mapa mental. La misma información está también disponible en [esta](https://aprendiendo-cosas.github.io/Te_poblaciones_comp_intra_ecologia_ccaa/presentacion/debate_cooperacion.html) página. 
+3. Debate sobre las preguntas anteriores durante una sesión presencial. El debate se realizó el día 25 de marzo. En él comentamos varios asuntos. El resumen se puede ver y editar en [este](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2020-2021/presentacion/debate_cooperacion.xmind) mapa mental. La misma información está también disponible en [esta](https://aprendiendo-cosas.github.io/Te_poblaciones_comp_intra_ecologia_ccaa/presentacion/debate_cooperacion.html) página. 
 
