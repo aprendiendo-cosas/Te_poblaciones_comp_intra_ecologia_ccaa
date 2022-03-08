@@ -64,7 +64,11 @@ Para satisfacer los objetivos anteriores, seguiremos la siguiente metodología:
 
 ![image](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/presentacion/debate.jpg)
 
-4. Yo tomaré notas de lo que hablemos en un mapa mental. Publicaré aquí los resultados.
+4. Durante el debate (que fue corto porque casi nadie leyó los textos que os pasé...), tomé notas que se pueden ver en el siguiente mapa mental (que además se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2020-2021/presentacion/debate_cooperacion.xmind)).
+
+
+
+
 
 
 
@@ -72,3 +76,6 @@ Para satisfacer los objetivos anteriores, seguiremos la siguiente metodología:
 
 Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
 
+<img src="https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021_2022/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
+
+<img src="https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021_2022/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
