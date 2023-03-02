@@ -1,24 +1,21 @@
 # Guión de la sesión denominada "Competencia intraespecífica"
 
 
-> + **_Versión_**: 2021-2022
+> + **_Versión_**:2022-2023
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Aproximadamente 2 horas.
+> + **Duración**: 1hora.
 
-
+![portada]
 
 ## Objetivos 
 
-En esta guía se describen dos sesiones de una hora cada una. Tiene los siguientes objetivos. 
+Esta sesión tiene los siguientes objetivos. 
 
  + Definición del concepto de competencia intraspecífica, basado en la idea de población. 
  + Incorporar este nuevo concepto al conocimiento ya adquirido sobre crecimiento poblacional: "freno" debido a la competencia.
  + Analizar y comprender los impactos de la competencia intraespecífica en las poblaciones.
  + Comprender el papel que juega la competencia intraespecífica en el proceso de especiación.
- + Contraponer la idea de competencia a la de colaboración en la naturaleza. Analizar en grupo la existencia de este último concepto.
-
-Este acto docente consta de dos sesiones diferentes que se describen a continuación: "Conceptos generales e importancia de la competencia intraespecífica" y "Debate sobre la importancia de la cooperación en la naturaleza"
 
 
 
@@ -34,46 +31,14 @@ En esta sesión se suministra el siguiente material a los estudiantes:
 
 
 
-## Debate sobre la importancia de la cooperación en la naturaleza
+## Pregunta "bisagra"
+
+Las llamadas pregunta bisagra forman parte de una técnica docente que permite al estudiante tomar conciencia de lo que ha aprendido y también de las posibles dudas que le quedan. Se formulan de manera deliberadamente ambigua para fomentar la reflexión, el pensamiento crítico y la expresión de dudas por parte de los estudiantes.
+
+En esta ocasión, la pregunta bisagra es la siguiente:
+
+>Observa de nuevo con detenimiento la siguiente gráfica. Muestra cómo cambia el tamaño de una población en la que hay competencia intraespecífica a lo largo del tiempo. Imagina que se trata de la curva de crecimiento teórico de, por ejemplo, una población de truchas en una piscifactoría o una población de conejos en un coto de caza. Es decir, hablamos de una población de la que nosotros extraemos invididuos. Según esto, ¿cuántos individuos debería de tener la población para maximizar el rendimiento de las capturas?
 
 
 
-El concepto de competencia ha sido muy estudiado por distintos científicos desde hace mucho tiempo. El mismo Darwin lo analizó con detalle en sus escritos. La competencia es un importante motor de la evolución y condiciona en buena medida el funcionamiento de los ecosistemas. Sin embargo, el fenómeno "contrario", la cooperación altruista, ha sido poco estudiado. En esta sesión nos preguntamos en qué medida la cooperación está presente en la naturaleza y cuál puede ser su origen. A priori parece que no tiene mucho sentido cooperar con los miembros de tu población porque ellos son competidores netos por los recursos.
-
-De manera más específica, en esta actividad tenemos los siguientes objetivos:
-
-+ Disciplinares (relacionados con la ecología): Trataremos de responder a las siguientes preguntas.
-  + ¿Cuál es el significado ecológico de la cooperación?
-  + ¿Son incompatibles la existencia de cooperación y competencia intraespecífica?
-+ Instrumentales (relacionados con competencias más amplias):
-  + Evocar conocimiento de manera cooperativa. (Con esto responderemos parcialmente a las preguntas anteriores...)
-  + Entrenar la argumentación fundamentada en ideas o en conocimiento adquirido previamente.
-  + Entrenar nuestra capacidad de síntesis. 
-
-Para satisfacer los objetivos anteriores, seguiremos la siguiente metodología:
-
-1. Lectura y visionado del siguiente material. Puedes elegir libremente si aportar otros al debate.
-   1. Artículo divulgativo: "[Narrar historias promueve la cooperación](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021-2022/biblio_cooperacion/contadores_historias.pdf)"
-   2. Artículo científico: "[Evolutionary explanations for cooperation](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021-2022/biblio_cooperacion/evolutionary_explanations_cooperation.pdf)"
-   3. Artículo científico: "[Is good to cooperate?](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021-2022/biblio_cooperacion/is_good_cooperate.pdf)"
-   4. Artículo divulgativo: "[La aritmética de la ayuda mutua](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021-2022/biblio_cooperacion/la_aritmetica_ayuda_mutua.pdf)"
-   5. Artículo científico: "[The origin of cooperation](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021-2022/biblio_cooperacion/origin_cooperation.pdf)"
-   6. Vídeo divulgativo: "[Juntos perduramos](https://youtu.be/ZRimz-60xGY)"
-2. En el proceso de lectura sería recomendable que tomárais notas sobre aspectos que os resulten de interés y relacionados con los artículos propuestos. También podéis proponer otros artículos y leerlos también. Las notas se pueden escribir en un archivo de texto o construir un mapa mental.
-3. Debate sobre las preguntas anteriores durante una sesión presencial. Para debatir usaremos el llamado ["método socrático"](https://es.wikipedia.org/wiki/M%C3%A9todo_socr%C3%A1tico): Yo iré formulando preguntas y afirmaciones. Vosotros reaccionaréis ante las mismas y juntos iremos avanzando hacia no sabemos muy bien dónde... Para que esta experiencia funcione bien es importante que sigamos una serie de normas. Podeís verlas [aquí](https://twitter.com/psicedum/status/1468516676303994888?s=21) y en la imagen a continuación:
-
-![image](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021-2022/presentacion/debate.jpg)
-
-4. Durante el debate (que fue corto porque casi nadie leyó los textos que os pasé...), tomé notas que se pueden ver en el siguiente mapa mental (que además se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021-2022/presentacion/debate_cooperacion.xmind)).
-
-
-<p><iframe src="https://raw.githack.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/2021-2022/presentacion/debate_cooperacion.html" width="1200" height="900"> </iframe></p>
-
-
-## Evaluación de la sesión según los estudiantes
-
-Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
-
-<img src="https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021-2022/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
-
-<img src="https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021-2022/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
+![grafica](https://upload.wikimedia.org/wikipedia/en/0/04/Logisticpopulationgrowth2.jpg)
