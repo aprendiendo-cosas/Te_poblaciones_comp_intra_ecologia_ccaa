@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: 1hora.
 
-![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/main/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2022-2023/imagenes/portada.jpg)
 
 ## Objetivos 
 
@@ -23,8 +23,8 @@ Esta sesión tiene los siguientes objetivos.
 En esta sesión se suministra el siguiente material a los estudiantes:
 + Presentación de Prezi que se usa como guía en la explicación sobre la competencia intraespecífica. Esta presentación sigue la misma estructura y diseño visual que la utilizada en la sesión sobre poblaciones. Disponible en varios formatos:
   + [Visualización en línea](https://prezi.com/view/uMq5KSdDiRNnSvBLlCpe).
-  + Descarga de ejecutable para verla offline. Disponible para  [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021-2022/presentacion/competencia_intraespecifica.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021-2022/presentacion/competencia_intraespecifica.exe.zip).
-  + [Descarga en formato pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2021-2022/presentacion/competencia_intraespecifica.pdf).
+  + Descarga de ejecutable para verla offline. Disponible para  [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2022-2023/presentacion/competencia_intraespecifica.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2022-2023/presentacion/competencia_intraespecifica.exe.zip).
+  + [Descarga en formato pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2022-2023/presentacion/competencia_intraespecifica.pdf).
   + También se puede ver incrustada a continuación:
 
 <p><iframe src="https://prezi.com/view/uMq5KSdDiRNnSvBLlCpe/embed" width="1200" height="900"> </iframe></p>
@@ -42,3 +42,12 @@ En esta ocasión, la pregunta bisagra es la siguiente:
 
 
 ![grafica](https://upload.wikimedia.org/wikipedia/en/0/04/Logisticpopulationgrowth2.jpg)
+
+Respondemos entre todos a la pregunta trabajando como una "mente colmena". Se aportan las siguientes respuestas:
+
++ Se alcanzará el máximo rendimiento en las capturas cuando el reclutamiento (entendido como la diferencia entre los nacimientos y las muertes) sea máximo.
++ El reclutamiento es nulo tanto al inicio del crecimiento de la población (no hay apenas individuos) como en el momento en el que N = K. 
++ Por tanto, el reclutamiento máximo se alcanza cuando la pendiente de la curva anterior es máximo. Esto suele darse cuando N = 1/K
+
+
+
