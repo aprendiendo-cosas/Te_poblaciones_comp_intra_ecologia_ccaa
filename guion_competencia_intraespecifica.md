@@ -43,11 +43,3 @@ En esta ocasión, la pregunta bisagra es la siguiente:
 
 ![grafica](https://upload.wikimedia.org/wikipedia/en/0/04/Logisticpopulationgrowth2.jpg)
 
-Respondemos entre todos a la pregunta trabajando como una "mente colmena". Se aportan las siguientes respuestas:
-
-+ Se alcanzará el máximo rendimiento en las capturas cuando el reclutamiento (entendido como la diferencia entre los nacimientos y las muertes) sea máximo.
-+ El reclutamiento es nulo tanto al inicio del crecimiento de la población (no hay apenas individuos) como en el momento en el que N = K. 
-+ Por tanto, el reclutamiento máximo se alcanza cuando la pendiente de la curva anterior es máximo. Esto suele darse cuando N = 1/K
-
-
-
