@@ -1,7 +1,7 @@
 # Guión de la sesión denominada "Competencia intraespecífica"
 
 
-> + **_Versión_**:2022-2023
+> + **_Versión_**: 2023-2024
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: 1hora.
