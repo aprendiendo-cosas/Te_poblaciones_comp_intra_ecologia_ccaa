@@ -1,4 +1,4 @@
-# Guión de la sesión denominada "Competencia intraespecífica"
+# Competencia intraespecífica
 
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
@@ -42,7 +42,7 @@ En esta ocasión, la pregunta bisagra es la siguiente:
 
 
 
-![grafica](https://upload.wikimedia.org/wikipedia/en/0/04/Logisticpopulationgrowth2.jpg)
+![grafica](/Users/fjbonet/Downloads/Logisticpopulationgrowth2.jpg)
 
 En este curso usamos esta pregunta bisagra como introducción al tema de "explotación de poblaciones". Así que la pregunta nos da mucho juego :)
 
