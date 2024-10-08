@@ -7,7 +7,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: 1hora.
 
-![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2024_2025/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2024-2025/imagenes/portada.jpg)
 
 ## Objetivos 
 
@@ -24,8 +24,8 @@ Esta sesión tiene los siguientes objetivos.
 En esta sesión se suministra el siguiente material a los estudiantes:
 + Presentación de Prezi que se usa como guía en la explicación sobre la competencia intraespecífica. Esta presentación sigue la misma estructura y diseño visual que la utilizada en la sesión sobre poblaciones. Disponible en varios formatos:
   + [Visualización en línea](https://prezi.com/view/uMq5KSdDiRNnSvBLlCpe).
-  + Descarga de ejecutable para verla offline. Disponible para  [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2024_2025/presentacion/competencia_intraespecifica.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2024_2025/presentacion/competencia_intraespecifica.exe.zip).
-  + [Descarga en formato pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2024_2025/presentacion/competencia_intraespecifica.pdf).
+  + Descarga de ejecutable para verla offline. Disponible para  [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2024-2025/presentacion/competencia_intraespecifica.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2024-2025/presentacion/competencia_intraespecifica.exe.zip).
+  + [Descarga en formato pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2024-2025/presentacion/competencia_intraespecifica.pdf).
   + También se puede ver incrustada a continuación:
 
 <p><iframe src="https://prezi.com/view/uMq5KSdDiRNnSvBLlCpe/embed" width="1200" height="900"> </iframe></p>
@@ -42,7 +42,7 @@ En esta ocasión, la pregunta bisagra es la siguiente:
 
 
 
-![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/refs/heads/2024_2025/imagenes/Logisticpopulationgrowth2.jpg)
+![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/refs/tags/2024-2025/imagenes/Logisticpopulationgrowth2.jpg)
 
 *Fuente: Wikimedia*
 
@@ -54,7 +54,7 @@ En este curso usamos esta pregunta bisagra como introducción al tema de "explot
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/archive/refs/tags/2024-2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
