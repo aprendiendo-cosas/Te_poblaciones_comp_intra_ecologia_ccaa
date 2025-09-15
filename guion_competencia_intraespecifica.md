@@ -2,16 +2,16 @@
 
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
-> + **_Versión_**: 2024-2025
+> + **_Versión_**: 2025-2026
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: 1hora.
+> + **Duración**: 1hora de trabajo en casa
 
 ![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2024-2025/imagenes/portada.jpg)
 
 ## Objetivos 
 
-Esta sesión tiene los siguientes objetivos. 
+Esta sesión tiene los siguientes objetivos que serán completados con trabajo en casa. 
 
  + Definición del concepto de competencia intraspecífica, basado en la idea de población. 
  + Incorporar este nuevo concepto al conocimiento ya adquirido sobre crecimiento poblacional: "freno" debido a la competencia.
@@ -29,6 +29,18 @@ En esta sesión se suministra el siguiente material a los estudiantes:
   + También se puede ver incrustada a continuación:
 
 <p><iframe src="https://prezi.com/view/uMq5KSdDiRNnSvBLlCpe/embed" width="1200" height="900"> </iframe></p>
+
+
+
+## Grabación de esta sesión
+
+El siguiente vídeo muestra la grabación de esta sesión en el curso 20-21. Se incluye aquí como ayuda para la preparación del tema en casa.
+
+
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/caqXh9MOuuE?si=-VupWwbt4NsnTZCZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 
 
@@ -54,7 +66,7 @@ En este curso usamos esta pregunta bisagra como introducción al tema de "explot
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/archive/refs/tags/2024-2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/archive/refs/tags/2025-2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
