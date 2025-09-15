@@ -44,24 +44,6 @@ El siguiente vídeo muestra la grabación de esta sesión en el curso 20-21. Se 
 
 
 
-## Pregunta "bisagra"
-
-Las llamadas pregunta bisagra forman parte de una técnica docente que permite al estudiante tomar conciencia de lo que ha aprendido y también de las posibles dudas que le quedan. Se formulan de manera deliberadamente ambigua para fomentar la reflexión, el pensamiento crítico y la expresión de dudas por parte de los estudiantes.
-
-En esta ocasión, la pregunta bisagra es la siguiente:
-
->Observa de nuevo con detenimiento la siguiente gráfica. Muestra cómo cambia el tamaño de una población en la que hay competencia intraespecífica a lo largo del tiempo. Imagina que se trata de la curva de crecimiento teórico de, por ejemplo, una población de truchas en una piscifactoría o una población de conejos en un coto de caza. Es decir, hablamos de una población de la que nosotros extraemos invididuos. Según esto, ¿cuántos individuos debería de tener la población para maximizar el rendimiento de las capturas? O dicho de otra forma, ¿en qué momento del proceso de crecimiento de la población podemos maximizar la extracción de individuos sin afectar a la sostenibilidad de la población?
-
-
-
-![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/refs/tags/2024-2025/imagenes/Logisticpopulationgrowth2.jpg)
-
-*Fuente: Wikimedia*
-
-En este curso usamos esta pregunta bisagra como introducción al tema de "explotación de poblaciones". Así que la pregunta nos da mucho juego :)
-
-
-
 
 
 ****
