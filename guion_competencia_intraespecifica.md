@@ -42,7 +42,9 @@ El siguiente vídeo muestra la grabación de esta sesión en el curso 20-21. Se 
 
 
 
+## Ideas para activar el [preguntismo](https://aprendientesdotorg.wordpress.com/2015/10/15/activar-el-preguntismo/)
 
+Se ha comprobado que una buena forma de fijar conocimientos y de identificar carencias en el aprendizaje es tratar de formular preguntas sobre el tema estudiado. Así que, en algunas sesiones abriré un espacio para que inventes preguntas. La idea es que formules una pregunta sobre temas que te interesen relacionados con lo que hemos visto en clase. O cuestiones que conecten con la actualidad o que estén relacionadas con otras disciplinas. También sirven preguntas locas que no tienen por qué tener respuesta. Sube tu pregunta a [este](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=13GcfPkAbUeNBfUavU7CKvXSfMZUc71HpR4AMSoJrd5UMERPSzRXUFo4Qk04TFNSTEtOU0M2WE41SC4u) formulario cuando quieras. Iré anotando las respuestas a continuación
 
 
 
