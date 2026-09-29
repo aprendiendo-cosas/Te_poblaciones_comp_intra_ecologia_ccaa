@@ -5,9 +5,9 @@
 > + **_Versión_**: 2026-2027
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: 1hora de trabajo en clase
+> + **Duración**: 2 horas de trabajo en clase
 
-![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2025_2026/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/2026_2027/imagenes/portada.jpg)
 
 
 
@@ -27,8 +27,6 @@ Esta sesión tiene los siguientes objetivos que serán abordados en clase.
 
 
 ## 2. Introducción a la competencia intraespecífica
-
-
 
 En esta sesión se suministra el siguiente material a los estudiantes:
 + Presentación de Prezi que se usa como guía en la explicación sobre la competencia intraespecífica. Esta presentación sigue la misma estructura y diseño visual que la utilizada en la sesión sobre poblaciones. Disponible en varios formatos:
@@ -190,19 +188,57 @@ La geometría de esta función describe una curva parabólica o campaniforme asi
 3. **Aproximación a la capacidad de carga ($N \to K$):** El diferencial ($b - m$) tiende a cero debido a la presión competitiva intraespecífica; consecuentemente, el reclutamiento neto se anula ($R = 0$). La población cesa su expansión numérica neta y alcanza el estado estacionario.
 
 
-CONTINUARÁ...
+
+## 7. Modelización matemática del crecimiento poblacional y competencia intraespecífica
+
+El crecimiento exponencial describe la tasa instantánea de cambio poblacional mediante la ecuación diferencial: 
+
+$$\frac{dN}{dt} = r \cdot N$$
+
+donde $r$ representa la tasa intrínseca de crecimiento per cápita ( es decir, la diferencia neta entre natalidad y mortalidad per cápita: $r = b - d$) y $N$ es el tamaño poblacional.   
+
+Para incorporar el efecto amortiguador de la competencia intraespecífica derivado de la limitación de recursos, se recurre al modelo logístico formulado por Pierre François Verhulst:   
+
+$$\frac{dN}{dt} = r \cdot N \left( \frac{K - N}{K} \right)$$
+
+El término $\left( \frac{K - N}{K} \right)$ cuantifica la fracción de la capacidad de carga ($K$) aún disponible en el medio. Su comportamiento dinámico se caracteriza por:   
+
+- Cuando $N \to 0$, el término $\frac{K - N}{K} \to 1$, aproximándose la dinámica al modelo exponencial.   
+- A medida que $N$ aumenta, la resistencia ambiental se intensifica y la tasa de crecimiento poblacional disminuye progresivamente.   
+- Cuando $N = K$, el término se anula ($\frac{K - K}{K} = 0$), provocando que $\frac{dN}{dt} = 0$ y alcanzando una asíntota estacionaria. (En la exposición oral se afirma que «$N$ nunca va a ser mayor que $K$ por definición». Esto es incorrecto: una población real o modelizada puede sobrepasar puntualmente la capacidad de carga ($N > K$); en tal caso el término se vuelve negativo, resultando en una tasa de cambio negativa que reduce el tamaño poblacional).   
+
+## 8. Aplicabilidad y limitaciones de la capacidad de carga ($K$)
+
+El modelo logístico puede aplicarse a diversas poblaciones biológicas, incluida la humana, cuyo crecimiento demográfico global muestra signos empíricos de desaceleración. No obstante, el parámetro $K$ presenta restricciones inherentes en escenarios naturales:   
+
+1. **Dinamismo temporal:** La disponibilidad de recursos primarios fluctúa en función de variables estocásticas ambientales (e.g., precipitación), por lo que $K$ no es una constante fija.   
+2. **Retardos temporales (time-lags):** El efecto de la densidad sobre el reclutamiento o la mortalidad opera con desfases ontogenéticos o generacionales, lo que induce oscilaciones en torno a $K$ en lugar de una convergencia monotónica suave.   
+3. **Interacciones bióticas:** La competencia interespecífica y la depredación modifican simultáneamente la fracción efectiva de recursos consumibles y la tasa de mortalidad, invalidando la asunción de aislamiento poblacional. Las fluctuaciones o colapsos poblacionales no son frecuentes en la naturaleza debido a los depredadores y a otras interacciones. Sin embargo, en ecología de poblaciones está documentado que especies con dinámicas de tipo $r$ experimentan ciclos acentuados de sobreoscilación (\*overshoot\*) y colapso (\*crash\*) poblacional en condiciones naturales). 
+
+### 8.1 Estrategias demográficas de historia de vida: selección $r$ y $K$
+
+La teoría clásica de selección de historias de vida (MacArthur y Wilson) clasifica a los organismos a lo largo de un gradiente continuo entre dos extremos adaptativos:   
+
+- **Estrategas de la $K$:** Organismos adaptados a hábitats estables y predecibles próximos a la densidad de saturación. Presentan gran biomasa corporal, desarrollo lento, elevada inversión parental, baja fecundidad y curvas de supervivencia de Tipo I (mortalidad concentrada en etapas senescentes).   
+- **Estrategas de la $r$:** Organismos propios de ambientes efímeros o perturbados. Se caracterizan por cuerpos pequeños, ciclos de vida cortos, alta asignación de energía a la reproducción indiscriminada y curvas de supervivencia de Tipo III (mortalidad masiva en estadios tempranos y juveniles). 
+
+## 9. Otros efectos de la competencia intraespecífica
+
+La competencia intraespecífica induce respuestas fenotípicas y demográficas más allá de la mera regulación numérica: 
+
+- **Alteración de la razón de sexos (\*sex-ratio\*):** En ciertas especies con determinación de sexo ambiental o facultativa (e.g., himenópteros parasitoides gregarios), la densodependencia y la competencia entre larvas coespecíficas modulan la asignación diferencial de sexos en las puestas.   
+
+- **La competencia intraespecífica como motor evolutivo y especiación**
+
+La presión selectiva derivada de la escasez de recursos constituye una fuerza directriz en la evolución adaptativa: 
+
+1. En condiciones de saturación de recursos, la relajación de la selección natural permite la persistencia de alelos con eficacia biológica dispar. 
+2. Ante una escasez severa, la selección fenotípica diferencial canaliza la supervivencia hacia variantes morfofuncionales óptimas. 
+3. La divergencia alopátrica o simpátrica mediada por competencia intraespecífica promueve la especialización trófica o partición de nicho (e.g., radiación adaptativa en el tamaño del aparato mandibular en los pinzones de Darwin), reduciendo el solapamiento ecológico y facilitando procesos de cladogénesis. 
 
 
 
-
-
-
-
-
-
-
-
-## Ideas para activar el [preguntismo](https://aprendientesdotorg.wordpress.com/2015/10/15/activar-el-preguntismo/)
+## 10 Ideas para activar el [preguntismo](https://aprendientesdotorg.wordpress.com/2015/10/15/activar-el-preguntismo/)
 
 Se ha comprobado que una buena forma de fijar conocimientos y de identificar carencias en el aprendizaje es tratar de formular preguntas sobre el tema estudiado. Así que, en algunas sesiones abriré un espacio para que inventes preguntas. La idea es que formules una pregunta sobre temas que te interesen relacionados con lo que hemos visto en clase. O cuestiones que conecten con la actualidad o que estén relacionadas con otras disciplinas. También sirven preguntas locas que no tienen por qué tener respuesta. Sube tu pregunta a [este](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=13GcfPkAbUeNBfUavU7CKvXSfMZUc71HpR4AMSoJrd5UMERPSzRXUFo4Qk04TFNSTEtOU0M2WE41SC4u) formulario cuando quieras. Iré anotando las respuestas a continuación
 
@@ -210,7 +246,7 @@ Se ha comprobado que una buena forma de fijar conocimientos y de identificar car
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/archive/refs/tags/2026_2027.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
